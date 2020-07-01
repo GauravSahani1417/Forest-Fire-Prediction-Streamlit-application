@@ -4,4 +4,4 @@
 
 ## Website Link: https://forestfireapp.herokuapp.com/
 
-![](images/fire.png)
+![forest_fire](fire.png)
